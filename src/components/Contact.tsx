@@ -20,23 +20,21 @@ const Contact = () => {
               </a>
             </p>
             <p>
-              <a href="mailto:rachit2406official@gmail.com" data-cursor="disable">
-                rachit2406official@gmail.com
+              <a href="mailto:2406rachit2406@gmail.com" data-cursor="disable">
+                2406rachit2406@gmail.com
               </a>
             </p>
+            <p>Uttar Pradesh, India</p>
             <h4>Education</h4>
             <p>
-              Dr. A.P.J. Abdul Kalam Technical University - Degree (2022-2026)
-            </p>
-            <p>
-              Gopal Saraswati Vidya Mandir Senior Secondary School - First
-              Division
+              Dr. A.P.J. Abdul Kalam Technical University - B.Tech CSE
+              (2022-2026)
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="mailto:rachit2406official@gmail.com"
+              href="mailto:2406rachit2406@gmail.com"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -52,6 +50,9 @@ const Contact = () => {
               className="contact-social"
             >
               LinkedIn <MdArrowOutward />
+            </a>
+            <a href="/resume.pdf" download data-cursor="disable" className="contact-social">
+              Download Resume <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">

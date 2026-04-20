@@ -59,7 +59,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="mailto:rachit2406official@gmail.com"
+            href="mailto:2406rachit2406@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -78,11 +78,10 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="mailto:rachit2406official@gmail.com"
-        target="_blank"
-        rel="noreferrer"
+        href="/resume.pdf"
+        download
       >
-        <HoverLinks text="CONTACT" />
+        <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
         </span>

@@ -294,6 +294,25 @@ h2.landing-info-h2 {
   }
 }
 
+@media screen and (max-width: 1024px) {
+  .landing-section {
+    min-height: 100svh;
+    padding-top: 80px;
+  }
+
+  .landing-intro {
+    top: 8%;
+  }
+
+  .landing-info {
+    bottom: 24px;
+  }
+
+  .character-model {
+    bottom: 20px;
+  }
+}
+
 @media screen and (min-width: 768px) {
   .character-model {
     height: 80vh;
@@ -319,6 +338,76 @@ h2.landing-info-h2 {
 
   h2.landing-info-h2 {
     font-size: 55px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .landing-container {
+    width: calc(100% - 24px);
+  }
+
+  .landing-intro h2 {
+    font-size: 16px;
+  }
+
+  .landing-intro h1 {
+    font-size: 28px;
+    line-height: 30px;
+  }
+
+  .landing-info h3 {
+    font-size: 16px;
+  }
+
+  .landing-info h2 {
+    font-size: 31px;
+    line-height: 34px;
+    margin-top: -10px;
+    margin-left: 8px;
+  }
+
+  h2.landing-info-h2 {
+    font-size: 36px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .landing-section {
+    padding-top: 74px;
+  }
+
+  .landing-intro {
+    top: 9%;
+  }
+
+  .landing-intro h2 {
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  .landing-intro h1 {
+    font-size: 24px;
+    line-height: 25px;
+  }
+
+  .landing-info {
+    bottom: 18px;
+  }
+
+  .landing-info h3 {
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  .landing-info h2 {
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 0;
+  }
+
+  h2.landing-info-h2 {
+    font-size: 28px;
+    width: auto;
   }
 }
 

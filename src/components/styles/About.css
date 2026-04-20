@@ -10,9 +10,9 @@
   margin: auto;
 }
 .about-me {
-  padding: 50px 0px;
+  padding: 60px 0px;
   padding-bottom: 0;
-  width: 500px;
+  width: 620px;
   max-width: calc(100% - 15px);
 }
 .about-me h3 {
@@ -24,10 +24,12 @@
 }
 
 .about-me p {
-  font-size: 33px;
-  font-weight: 600;
-  line-height: 36px;
-  letter-spacing: 1px;
+  font-size: 31px;
+  font-weight: 500;
+  line-height: 1.28;
+  letter-spacing: 0.4px;
+  color: #e9edf6;
+  text-wrap: pretty;
 }
 
 @media only screen and (min-width: 600px) {
@@ -59,8 +61,8 @@
     width: 50%;
   }
   .about-me p {
-    font-size: 1.9vw;
-    line-height: 2.3vw;
+    font-size: 1.75vw;
+    line-height: 2.15vw;
   }
 }
 @media only screen and (min-width: 1950px) {

@@ -102,6 +102,7 @@ const WhatIDo = () => {
                 <div className="what-tags">MySQL</div>
                 <div className="what-tags">Jupyter</div>
                 <div className="what-tags">Python</div>
+                <div className="what-tags">SQL</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,8 +129,8 @@ const WhatIDo = () => {
               <h3>SOFTWARE DEVELOPMENT</h3>
               <h4>Web and ML Applications</h4>
               <p>
-                I build web and machine learning solutions with a focus on clean
-                implementation, model performance, and scalable APIs.
+                I build full-stack and machine learning applications with clean
+                architecture, optimized data workflows, and scalable APIs.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -139,7 +140,7 @@ const WhatIDo = () => {
                 <div className="what-tags">React</div>
                 <div className="what-tags">DSA</div>
                 <div className="what-tags">Web Scraping</div>
-                <div className="what-tags">Machine Learning</div>
+                <div className="what-tags">Scikit-learn</div>
               </div>
               <div className="what-arrow"></div>
             </div>

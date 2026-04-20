@@ -6,7 +6,7 @@
 }
 .hover-in {
   position: relative;
-  transition: 0.3s;
+  transition: 0.35s var(--smoothEase);
 }
 .hover-in div {
   display: flex;

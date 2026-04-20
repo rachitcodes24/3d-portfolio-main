@@ -5,31 +5,32 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Employee Salary Prediction",
-    category: "Ensemble Learning Project",
+    title: "Real-Time Stock Portfolio Tracker",
+    category: "Fintech Dashboard Application",
     tools:
-      "Python, Random Forest, Gradient Boosting, Voting Regressor, Jupyter",
+      "Python, Streamlit, API Integration, Real-time Visualization, Mobile Optimization",
     image: "/images/project1.png",
     link: "https://linkedin.com/in/rachit2406",
   },
   {
-    title: "Data Analytics Dashboards",
-    category: "Business Intelligence",
-    tools: "Power BI, Tableau, Excel, Data Cleaning, KPI Reporting",
+    title: "SutraX Web Application",
+    category: "Scalable Web Architecture",
+    tools: "Python, Node Architecture, HTML/CSS, Backend Optimization, Responsive UI",
     image: "/images/project2.png",
     link: "https://linkedin.com/in/rachit2406",
   },
   {
-    title: "FastAPI Backend Projects",
-    category: "API Development",
-    tools: "FastAPI, MySQL, Python, REST APIs",
+    title: "Employee Salary Prediction Model",
+    category: "Ensemble Machine Learning",
+    tools:
+      "Python, Scikit-learn, Pandas, Random Forest, Gradient Boosting, Voting Regressor",
     image: "/images/project3.png",
     link: "https://linkedin.com/in/rachit2406",
   },
   {
-    title: "React Web Applications",
-    category: "Frontend Development",
-    tools: "React, JavaScript, UI Components, Responsive Design",
+    title: "Power BI Insight Dashboards",
+    category: "Data Analytics & Reporting",
+    tools: "Power BI, SQL, Python, KPI Tracking, Business Decision Support",
     image: "/images/project4.png",
     link: "https://linkedin.com/in/rachit2406",
   },
