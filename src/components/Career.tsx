@@ -41,19 +41,6 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Founder & President</h4>
-                <h5>Aarambh Coding Club</h5>
-              </div>
-              <h3>02/2026 - Present</h3>
-            </div>
-            <p>
-              Leading coding events, technical sessions, and mentorship
-              initiatives to strengthen student developer communities.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
                 <h4>TPO Coordinator</h4>
                 <h5>FGIET</h5>
               </div>
